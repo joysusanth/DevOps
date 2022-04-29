@@ -1,1 +1,2 @@
-Developer update : update done from git desktop
+Developer1 update : update done from git desktop
+Developer2 update : update done from github web
